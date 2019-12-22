@@ -1613,6 +1613,7 @@ ul {
 .post__title {
     font-size: 20px;
     margin: 10px 0 15px;
+    text-align: center;
 }
 
 .post__title a:hover {
