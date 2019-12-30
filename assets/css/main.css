@@ -2299,11 +2299,15 @@ ul {
 .hero__title .typing__module {
     display: inline-block;
     color: navy;
+    min-height: 500 px;
+    max-height: 500 px;
 }
 
 .hero__text {
     font-size: 20px;
     color: #fff;
+    min-height: 500 px;
+    max-height: 500 px;
 }
 
 @-webkit-keyframes bounce {
