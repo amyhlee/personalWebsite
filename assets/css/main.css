@@ -2279,7 +2279,7 @@ ul {
     font-size: 40px;
     font-weight: bold;
     text-transform: uppercase;
-    color: #fff;
+    color: black;
     margin-top: 0;
     margin-bottom: 25px;
 }
@@ -2305,7 +2305,7 @@ ul {
 
 .hero__text {
     font-size: 20px;
-    color: #fff;
+    color: white;
     min-height: 500 px;
     max-height: 500 px;
 }
